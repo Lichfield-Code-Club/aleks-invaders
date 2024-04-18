@@ -1,2 +1,2 @@
 # aleks-invaders
-Aleks Thomson : Space Invaders
+Aleks Townsend : Space Invaders
