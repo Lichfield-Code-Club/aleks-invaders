@@ -99,6 +99,7 @@ spaceship=ship(int(screen_width/2),screen_height-100,3)
 spaceship_group.add(spaceship)
 
 run = True
+# Main game loop - comment added for Git demo.
 while run:
 	clock.tick(fps)
 	draw_bg()
