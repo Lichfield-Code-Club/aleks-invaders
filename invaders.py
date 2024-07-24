@@ -100,6 +100,7 @@ spaceship_group.add(spaceship)
 
 run = True
 # Main game loop - comment added for Git demo.
+# and this one
 while run:
 	clock.tick(fps)
 	draw_bg()
